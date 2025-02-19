@@ -9,11 +9,14 @@
 - [Versioning](#Versioning)
 
 ## Description
-Based on the book *name of book*
+Based on the project *what i did*
 ## How To Run Program
-The user inputs **keywords** 
+The user potentially inputs **keywords** 
 ## Files Used
 1. First File
 2. Second File
+3. Third File
 ## Aditional Documentation
+Maybe I pulled data from a [link](https://www.link.com)
 ## Versioning
+V1.1 In Progress
