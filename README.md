@@ -1,3 +1,4 @@
+# Project Title
 ## Table of Contents
 
 - [Project Title](#Project-Title)
@@ -7,7 +8,6 @@
 - [Additional Documentation](#Additional-documentation)
 - [Versioning](#Versioning)
 
-# Project Title
 ## Description
 Based on the book *name of book*
 ## How To Run Program
