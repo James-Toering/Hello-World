@@ -9,7 +9,7 @@
 - [Versioning](#Versioning)
 
 ## Description
-Based on the project *what i did*
+Based on the project *what I did*
 ## How To Run Program
 The user potentially inputs **keywords** 
 ## Files Used
