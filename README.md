@@ -7,7 +7,7 @@
 - [Additional Documentation](#Additional-documentation)
 - [Versioning](#Versioning)
 
-## Project Title
+# Project Title
 ## Description
 Based on the book *name of book*
 ## How To Run Program
